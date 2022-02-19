@@ -3,7 +3,7 @@ Zurxcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/zurxcoin-project/zurxcoin.svg?branch=master)](https://travis-ci.org/zurxcoin-project/zurxcoin)
 
-https://zurxcoin.org
+https://zurxcoin.com
 
 What is Zurxcoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Zurxcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Zurxcoin Core software, see [https://zurxcoin.org](https://zurxcoin.org).
+the Zurxcoin Core software, see [https://zurxcoin.com](https://zurxcoin.com).
 
 License
 -------
